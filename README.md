@@ -1,12 +1,50 @@
-# React + Vite
+# 🧠 Smart Explanation Board
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive, animated explanation app for basic educational questions. Built with **React**, **Framer Motion**, and **creativity** in mind.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 💬 Ask questions like:
+  - “What is a triangle?”
+  - “What is 12 x 13?”
+  - “What is photosynthesis?”
+- ✨ Animated explanations using SVGs and text transitions
+- 🔁 Replay animation button
+- 🕘 History panel
+- 📱 Mobile responsive
+- ♿ Accessible (screen reader-friendly labels)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎨 Creative Touches
+
+- 🧑‍🏫 Blackboard-style layout
+- 🔄 Replayable visual steps
+- 🌀 Smooth, engaging transitions
+- 🧼 Minimalistic, clean UI
+
+---
+
+## ⚠️ Limitations
+
+- 📄 Explanations are **hardcoded** to showcase creative UX only
+- 🧠 No dynamic NLP or backend integration (by design – for demo purposes)
+
+---
+
+## 📸 Screenshots
+
+| Triangle Animation | Multiplication Steps | Photosynthesis |
+|--------------------|----------------------|----------------|
+| ![Triangle](./screenshots/triangle.png) | ![Multiplication](./screenshots/multiplication.png) | ![Photosynthesis](./screenshots/photosynthesis.png) |
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- javascript
+- Tailwind CSS
+- Framer Motion
