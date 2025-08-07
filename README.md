@@ -38,7 +38,7 @@ An interactive, animated explanation app for basic educational questions. Built 
 
 | Triangle Animation | Multiplication Steps | Photosynthesis |
 |--------------------|----------------------|----------------|
-| ![Triangle](./screenshots/triangle.png) | ![Multiplication](./screenshots/multiplication.png) | ![Photosynthesis](./screenshots/photosynthesis.png) |
+| ![Triangle](./src/assets/screenshots/triangle.png) | ![Multiplication](./src/assets/screenshots/multiplication.png) | ![Photosynthesis](./src/assets/screenshots/photosynthesis.png) |
 
 ---
 
